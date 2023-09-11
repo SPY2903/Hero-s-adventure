@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spike
+  - DeathZone
+  - Ladder
+  - Wall
+  - AnchorPoint
+  - AnchorArm
+  - LadderPointJump
+  - Enemy
+  - Replay
+  - Ground
+  - Music
+  - Heart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - AnchorPoint
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1930916005
+    locked: 0
+  - name: Spike
+    uniqueID: 1189305023
+    locked: 0
+  - name: Environment
+    uniqueID: 2951343263
+    locked: 0
+  - name: Props
+    uniqueID: 4286099173
+    locked: 0
+  - name: UI
+    uniqueID: 733656095
+    locked: 0
+  - name: Player
+    uniqueID: 2483411119
+    locked: 0
+  - name: Enemy
+    uniqueID: 2724490315
+    locked: 0
+  - name: Boss
+    uniqueID: 767099187
+    locked: 0
